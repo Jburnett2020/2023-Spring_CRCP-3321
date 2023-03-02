@@ -1,12 +1,12 @@
 # GitHub Pages Home Page for CRCP 3320
 
 <!-- relative path to a markdown file -->
-## Link to Local Markdown Page
+## [Link to Local Markdown Page](./markdown/markdown-example.md)
 
 [Markdown Example](./markdown/markdown-example.md)
 
 <!-- relative path to an HMTL file -->
-## Link to Local HTML Page
+## [Link to Local HTML Page](./html/html-example.html)
 
 [HTML Example](./html/html-example.html)
 
