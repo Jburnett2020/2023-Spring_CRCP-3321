@@ -5,6 +5,7 @@ This is a
 multi-line
 comment
 -->
+
 # Markdown Notes
 
 ## Text Changes
@@ -52,6 +53,7 @@ for (int i = 0; i < x; i++) {
   System.out.println("I am in a loop");
 }
 ```
+
 #### Python
 
 ```python
