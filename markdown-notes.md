@@ -79,3 +79,5 @@ print('more_than_50 is equal to', more_than_50)
 3. list item 3
 
 ## Image
+
+<img src="https://raw.githubusercontent.com/blwatkins/2023-Spring_CRCP-3320/main/images/flowers.jpg" width="500" height="500" />
