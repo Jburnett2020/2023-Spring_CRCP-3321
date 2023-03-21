@@ -1,5 +1,7 @@
 # GitHub Pages Home Page for CRCP 3320
 
+## [Link to p5.js Sketch](./sketches/p5-example/index.html)
+
 <!-- relative path to a markdown file -->
 ## [Link to Local Markdown Page](./markdown/markdown-example.md)
 
